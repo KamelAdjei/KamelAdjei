@@ -13,7 +13,7 @@ I'm an IT support specialist with a passion for helping people solve their tech 
 - Programming Languages: Html, CSS, Javascript ....
 
 
-## Labs
+## Labs, Tutorials and Exercises
 - [Configure Network Settings](https://github.com/KamelAdjei/Configure-Network-Settings-in-Windows)
 - [Configure DHCP](https://github.com/KamelAdjei/Configure-DHCP-in-Windows) 
 - [Configure DNS](https://github.com/KamelAdjei/Configure-DNS-in-Windows)
