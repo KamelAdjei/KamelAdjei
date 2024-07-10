@@ -16,7 +16,8 @@ I'm an IT support specialist with a passion for helping people solve their tech 
 ## Labs
 - [Configure Network Settings](https://github.com/KamelAdjei/Configure-Network-Settings-in-Windows)
 - [Configure DHCP](https://github.com/KamelAdjei/Configure-DHCP-in-Windows) 
-- [Configure DNS](https://github.com/KamelAdjei/Configure-DNS-in-Windows) 
+- [Configure DNS](https://github.com/KamelAdjei/Configure-DNS-in-Windows)
+- [Clear DNS Cache](https://github.com/KamelAdjei/How-to-Clear-DNS-Cache) 
 - [Create a Wireless Hotspot on your PC](https://github.com/KamelAdjei/Make-your-Computer-a-Wireless-Hotspot) 
 
 ## Connect with Me
